@@ -6,3 +6,5 @@ __pycache__/
 .DS_Store
 main_giga.py
 main_lang.py
+.python-version
+.gitignore
